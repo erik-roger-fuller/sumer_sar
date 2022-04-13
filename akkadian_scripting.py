@@ -1,5 +1,5 @@
 sumerian = {
- "if": ("tukum-bi","𒋗𒃻𒌉𒇲 𒁉"),
+ "if": ("tukum-bi","𒋗𒃻𒌉𒇲 𒁉"), #if, generally
  "do": ("ak","𒀝"), #to do or make
  "write": ("sar","𒊬"),
  "scribe": ("dub-sar","𒁾 𒊬"), #possible name
@@ -24,6 +24,9 @@ sumerian = {
  "[x]":("x-kam",""), #how to make ordinal numeral- list indexing
 
 }
+
+#must write in reverse polish notation as sumerian is SOV- like turkish
+#forth programming langugage the best reference for this
 
 babylonian= {"if": "𒄿𒄄𒅔𒍪"
 
