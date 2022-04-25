@@ -19,7 +19,7 @@ sumerian = {
  "*":("a-ra2", "𒀀𒁺"), #tines (numbers)
  "/":("ba", "𒁀"), #divide/winnow/allot
 
- "[]":("didli"), #assorted, a way to make a list
+ "[]":("didli", ""), #assorted, a way to make a list
 
  "[x]":("x-kam",""), #how to make ordinal numeral- list indexing
 
